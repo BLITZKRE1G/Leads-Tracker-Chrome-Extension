@@ -5,6 +5,12 @@ Steps:
 
   1] Use the "SAVE TAB" button to add the web address of current directory to your Leads. 
       Example- LinkedIn profile of your Lead.
+      
+      
   2] You can also add your Leads manually, by typing them in the TextBox and press the "SAVE INPUT" button to add it.
+  
+  
   3] Your Leads will not be lost if the browser closes, so you can access them later.
+  
+  
   4] You can delete your Leads by double-clicking the "DELETE ALL" button.
